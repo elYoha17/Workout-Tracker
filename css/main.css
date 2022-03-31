@@ -48,7 +48,7 @@
     text-align: right;
 }
 
-.tracker__button {
+.tracker__delete {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -62,7 +62,7 @@
     cursor: pointer;
 }
 
-.tracker__button:hover {
+.tracker__delete:hover {
     background: rgba(0, 0, 0, .1);
 }
 
